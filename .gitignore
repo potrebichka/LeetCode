@@ -1,2 +1,4 @@
-bin/
-obj/
+Speak/bin/
+Speak/obj/
+Speak.Tests/bin/
+Speak.Tests/obj/
