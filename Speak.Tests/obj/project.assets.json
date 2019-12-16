@@ -5835,11 +5835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Leetspeak.Solution/Speak.Tests/Speak.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/LeetCode/Speak.Tests/Speak.Tests.csproj",
       "projectName": "Speak.Tests",
-      "projectPath": "/Users/Guest/Desktop/Leetspeak.Solution/Speak.Tests/Speak.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/LeetCode/Speak.Tests/Speak.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Leetspeak.Solution/Speak.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/LeetCode/Speak.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5856,8 +5856,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/Leetspeak.Solution/Speak/Speak.csproj": {
-              "projectPath": "/Users/Guest/Desktop/Leetspeak.Solution/Speak/Speak.csproj"
+            "/Users/Guest/Desktop/LeetCode/Speak/Speak.csproj": {
+              "projectPath": "/Users/Guest/Desktop/LeetCode/Speak/Speak.csproj"
             }
           }
         }
